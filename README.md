@@ -1,9 +1,5 @@
-SpringMvcPractice.zip - Spring-Mvc Basics
+PoC 5,6,7:
 
-Example.zip - Spring-Boot Basics
-
-restfulWebServices.zip - RESTful API with Spring Boot(Tried with POSTMAN)
-
-JPAExample.zip - JPA Basics
-
-JPAHIBERNATEEX.zip - JPA and Hibernate Practice(Tried testing with JUnit)
+Try to implement Config server in the spring boot application, H2 in-memory concept
+Deploy the service in Spring cloud and expose the services using Eureka and Feign client
+Learn how to use the Spring Actuators for monitoring.
